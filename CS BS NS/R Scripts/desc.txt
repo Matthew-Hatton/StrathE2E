@@ -1,0 +1,1 @@
+Runs and extracts variables from North Sea, Celtic Sea and Barents Sea model runs. Varies fishing gear multipliers.
